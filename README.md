@@ -4,10 +4,10 @@ Hi 👋 My name is Edouard
 Hobbyist developper
 -------------------
 
-I lerned to code at 12yo in 2016, with Python
+
 
 * 🌍  I'm based in Paris
-* ✉️  You can contact me at [edouard.seemann@yahoo.fr](mailto:edouard.seemann@yahoo.fr)
+* ✉️  You can contact me at [edoigtrd@proton.me](mailto:edoigtrd@proton.me)
 * 🧠  I'm learning Machine Learning
 
 <a href="https://www.github.com/edoigtrd" target="_blank" rel="noreferrer"><img
