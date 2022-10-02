@@ -1,10 +1,10 @@
 Hi 👋 My name is Edouard
 ========================
 
-Hobbyist developper
+Computer science student at Epitech
 -------------------
-
-
+> I am interested in Artificial Intelligence and cybersecurity.
+-------------------
 
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [edoigtrd@proton.me](mailto:edoigtrd@proton.me)
