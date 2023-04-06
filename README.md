@@ -3,7 +3,7 @@ Hi 👋 My name is Edouard
 
 Computer science student at Epitech
 -------------------
-> I am interested in Artificial Intelligence and cybersecurity.
+> I like to code stupid things rather than useless
 -------------------
 
 * 🌍  I'm based in Paris
