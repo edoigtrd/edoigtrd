@@ -1,14 +1,16 @@
 Hi 👋 My name is Edouard
 ========================
-
-Computer science student at Epitech
+**
+Computer science student at ESGI,
+Internship at Boursobank 
+**
 -------------------
 > I like to code stupid things rather than useless
 -------------------
 
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [edoigtrd@proton.me](mailto:edoigtrd@proton.me)
-* 🧠  I'm learning Machine Learning
+* 🧠  I'm studying Machine Learning
 
 <a href="https://www.github.com/edoigtrd" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/edoigtrd?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
